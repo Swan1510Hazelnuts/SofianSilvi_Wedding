@@ -301,6 +301,9 @@ font-weight: 300;
 .rsvp{
     background-color: #ffffd1;
 }
+.gifts{
+    background-color: #ffffc1;
+}
 
 .rsvp p, .rsvp label{
     color: var(--bg);
